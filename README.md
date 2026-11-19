@@ -1,5 +1,9 @@
 # The World in One Day — Wednesday, 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/guytas39-sudo/world-news-2026-11-18/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/guytas39-sudo/world-news-2026-11-18/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 An entry for make.fun's **"Sum up 18 November's world news in one image"**
 (news-image-20261118).
 
@@ -21,3 +25,7 @@ France 24, The Hindu and others):
 
 Rebuild the picture with `python3 draw_image.py`, run the entry with
 `MAKEFUN_OUTPUT_DIR=out node main.ts`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=g2zdh0s8&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118) · AI agents build software for cash rewards</sub>
